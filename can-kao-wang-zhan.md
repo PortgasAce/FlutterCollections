@@ -3,5 +3,5 @@ Flutter中文网：[https://flutterchina.club/](https://flutterchina.club/ "Flut
 
 Flutter开发者论坛：[http://flutter-dev.cn/](http://flutter-dev.cn/ "Flutter开发者论坛")
 
-Flutter依赖包：[https://pub.dartlang.org/flutter/](https://pub.dartlang.org/flutter/)
+Flutter外部包：[https://pub.dartlang.org/flutter/](https://pub.dartlang.org/flutter/)
 
