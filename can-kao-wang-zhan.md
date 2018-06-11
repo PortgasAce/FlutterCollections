@@ -7,6 +7,8 @@ Flutter中文网：[https://flutterchina.club/](https://flutterchina.club/ "Flut
 
 Flutter Github：[https://github.com/flutter/flutter](https://github.com/flutter/flutter)
 
+Flutter GoogleGit：[https://flutter.googlesource.com/](https://flutter.googlesource.com/)
+
 Flutter开发者论坛：[http://flutter-dev.cn/](http://flutter-dev.cn/ "Flutter开发者论坛")
 
 Flutter外部包：[https://pub.dartlang.org/flutter/](https://pub.dartlang.org/flutter/)
