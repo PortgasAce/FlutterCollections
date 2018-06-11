@@ -8,4 +8,5 @@ FlutterTodo：[https://github.com/littlemarc2011/FlutterTodo](https://github.com
 
 开源中国：[https://github.com/yubo725/FlutterOSC](https://github.com/yubo725/FlutterOSC)
 
+音乐播放器：[https://github.com/iampawan/Flutter-Music-Player](https://github.com/iampawan/Flutter-Music-Player)
 
