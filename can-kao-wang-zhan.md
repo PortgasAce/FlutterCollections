@@ -5,3 +5,4 @@ Flutter开发者论坛：[http://flutter-dev.cn/](http://flutter-dev.cn/ "Flutte
 
 Flutter外部包：[https://pub.dartlang.org/flutter/](https://pub.dartlang.org/flutter/)
 
+掘金Flutter：[https://juejin.im/tag/Flutter](https://juejin.im/tag/Flutter)
