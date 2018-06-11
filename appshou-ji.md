@@ -12,3 +12,5 @@ FlutterTodo：[https://github.com/littlemarc2011/FlutterTodo](https://github.com
 
 FlutterExampleApps：[https://github.com/iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)
 
+ReadHub：[https://github.com/flyou/readhub_flutter](https://github.com/flyou/readhub_flutter)
+
