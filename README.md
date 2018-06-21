@@ -7,7 +7,7 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质�
 
 Flutter官网：[https://flutter.io/](https://flutter.io/)
 
-Flutter官网：[https://flutter-io.cn/](https://flutter-io.cn/)
+Flutter官网中文站：[https://flutter-io.cn/](https://flutter-io.cn/)
 
 Flutter教程：[https://flutter.io/showcase/](https://flutter.io/showcase/)
 
